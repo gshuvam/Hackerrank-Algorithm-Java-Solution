@@ -8,5 +8,5 @@ To go to the general page of hackkerank Algorithms Problems click <a style="colo
 <a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/WarmUP"><b>WarmUP</b></br></br>
 <a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/Implementation"><b>Implementation</b></br></br>
 <a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/String"><b>Strings</b></br></br>
-<a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/Sorting"><b>Sorting</b>
-<a href=""><b><h3>title</h3></b>
+<a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/Sorting"><b>Sorting</b></br></br>
+<a href="https://github.com/shuvam1309/Hackerrank-Algorithm-Java-Solution/tree/master/Regex"><b>Regex</b>
